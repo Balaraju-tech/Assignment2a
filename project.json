@@ -1,0 +1,24 @@
+{
+    "projects":[
+
+        {
+            "projectid":"1",
+            "project":"conduct",
+            "empid":[1,2,3],
+            "projectlead":"shivalead"
+        },
+        {
+            "projectid":"2",
+            "project":"IEHUB",
+            "empid":[2,3],
+            "projectlead":"balulead"
+        },
+        {
+            "projectid":"3",
+            "project":"Youtube",
+            "empid":[1,3,4],
+            "projectlead":"Bindulead"
+        }
+
+    ]
+}

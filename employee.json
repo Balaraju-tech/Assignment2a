@@ -1,0 +1,29 @@
+{
+    "employees":[
+
+        {
+            "empid":1,
+            "empname":"shiva",
+            "age":25,
+            "gender":"male"
+        },
+        {
+            "empid":2,
+            "empname":"balu",
+            "age":25,
+            "gender":"male"
+        },
+        {
+            "empid":3,
+            "empname":"googleceo",
+            "age":27,
+            "gender":"male"
+        }, {
+            "empid":4,
+            "empname":"Microsoftceo",
+            "age":27,
+            "gender":"male"
+        }
+
+    ]
+}
